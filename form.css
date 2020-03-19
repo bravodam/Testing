@@ -1,0 +1,14 @@
+footer{
+    margin-top: 40px;
+    margin-bottom: 0;
+    text-align: center;
+    border: 2px #110526 solid;
+    background-color: #110526;
+    color: white;
+
+}
+
+body{
+    background: lightgray !important;
+    color: black !important;
+}
